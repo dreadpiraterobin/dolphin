@@ -12,7 +12,7 @@ Please read the [FAQ](https://dolphin-emu.org/docs/faq/) before using Dolphin.
 
 ### Desktop
 
-* OS
+* blOS
     * Windows (7 SP1 or higher).
     * Linux.
     * macOS (10.12 Sierra or higher).
